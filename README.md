@@ -8,7 +8,7 @@
 * pip2 install requests
 * pip2 install mechanize
 
-* git clone https://github.com/raees-abdaal/raees
+* git clone https://github.com/mrraees/raees-abdaal.git
 
 * cd raees
 * ls 
